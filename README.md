@@ -1,6 +1,6 @@
 # Hi there, I'm Olatunde Sleek! 👋
 
-![Profile views](https://gpvc.arturio.dev/olatundesleek)
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/olatundesleek&title=Profile%20views)
 
 I'm a passionate software developer who loves coding and solving complex problems. My main areas of expertise are in web development, backend development, and cloud computing.
 

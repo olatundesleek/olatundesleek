@@ -13,8 +13,6 @@ I'm a passionate software developer who loves coding and solving complex problem
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
@@ -25,7 +23,6 @@ I'm a passionate software developer who loves coding and solving complex problem
 ## 🌱 What I'm currently learning
 
 - Advanced Kubernetes configurations and best practices
-- Machine learning and data science with Python
 - Serverless architecture with AWS Lambda
 
 ## 📈 GitHub Stats
@@ -38,18 +35,11 @@ I'm a passionate software developer who loves coding and solving complex problem
 
 - LinkedIn: [Olatunde Sleek](https://linkedin.com/in/olatundesleek)
 - Twitter: [@olatundesleek](https://twitter.com/olatundesleek)
-- Email: olatundesleek@example.com
+- Email: olatundesleek@gmail.com
 
 Feel free to reach out if you want to collaborate on a project or just want to say hi! 😊
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://example.com/post1)
-- [Post Title 2](https://example.com/post2)
-- [Post Title 3](https://example.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Fun Fact
 
-I once solved a Rubik's cube in under 2 minutes!
+i'm the fastest learner that i know.
